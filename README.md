@@ -101,7 +101,7 @@ Continuous deployment is enabled through GitHub.
 
 **Anas Sofiyan**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/anassofiyan
 
 ---
 
